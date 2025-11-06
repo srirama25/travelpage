@@ -1,3 +1,33 @@
-body{
+
+body {
+    font-family: Arial;
     
+    background-size: cover;
+}
+
+nav {
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    margin: 10px;
+    text-decoration: none;
+    color: purple;
+}
+
+h2 {
+    background: white;
+    padding: 15px;
+    margin: 20px;
+}
+
+footer{
+       
+    background-color: #111;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 20px;
 }

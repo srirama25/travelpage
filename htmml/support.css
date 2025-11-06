@@ -1,0 +1,72 @@
+   body {
+       
+  
+  background-color: #003366;
+  
+  
+  text-align: center;
+  justify-content: center;
+}
+nav {
+    background-color: #222;
+    padding: 10px 0;
+    text-align: center;
+}
+header {
+  background-color: #003366;
+  color: white;
+  padding-top: 10px;
+  
+}
+
+.support {
+  background-color: #003366;
+  margin: 20px auto;
+  padding: 20px;
+  width: 90%;
+  
+ 
+}
+
+input {
+  
+  padding: 8px;
+  margin-top: 5px;
+  border: 1px solid #ccc;
+  
+}
+textarea{
+    width: 100px;
+  padding: 8px;
+  margin-top: 5px;
+ 
+  
+}
+
+input{
+  background-color: #003366;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  
+  
+}
+
+input {
+  background-color: black;
+}
+
+footer {
+  background-color: #003366;
+  color: white;
+  padding: 10px;
+ 
+}
+footer{
+       
+    background-color: #111;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 20px;
+}
